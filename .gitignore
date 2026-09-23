@@ -1,0 +1,13 @@
+# Backend
+back/target/
+back/.idea/
+back/*.iml
+
+# Frontend
+front/node_modules/
+front/dist/
+front/build/
+
+# Archivos de SO
+.DS_Store
+Thumbs.db
